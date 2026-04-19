@@ -4,9 +4,6 @@
 
 **Student @ 42 Paris** · Promo November 2024
 
-Passionate about systems programming, DevOps, DevSecOps & networking.
-I enjoy building things from scratch and understanding how everything works under the hood.
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
