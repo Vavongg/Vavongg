@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vavongg/Vavongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alexis 👋
 
-Here are some ideas to get you started:
+**Student @ 42 Paris** · Promo November 2024
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about systems programming, DevOps, DevSecOps & networking.
+I enjoy building things from scratch and understanding how everything works under the hood.
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 About me
+
+- 🎓 Currently studying at **42 Paris** — a project-based, peer-to-peer school with no teachers
+- 🔧 I work mainly in **C and C++**, building projects entirely from scratch
+- 🐧 Comfortable in **Linux** environments, working daily in the terminal
+- 🐳 Getting hands-on with **Docker** and infrastructure topics
+- 📡 Interested in **networking, security and DevOps** practices
+- 🛠️ Perfecting my **Neovim** setup one plugin at a time
+
+---
+
+## 📂 Projects
+
+42's curriculum is built around progressively harder projects. Here are some highlights:
+
+| Project | Description | Grade |
+|:--------|:------------|:-----:|
+| [**cub3D**](https://github.com/Vavongg/cub3D) | Raycasting 3D engine in C — inspired by Wolfenstein 3D | **105/100** |
+| [**Philosophers**](https://github.com/Vavongg/philosophers) | Concurrency problem — POSIX threads & mutexes | **100/100** |
+| **minishell** | A fully functional Unix shell written in C | 42 |
+| **push_swap** | Sorting algorithm using two stacks with minimal moves | 42 |
+| **NetPractice** | Network configuration & subnetting exercises | 42 |
+| **pipex** | Reproduction of Unix pipes & redirections in C | 42 |
+
+> Many more completed — libft, ft_printf, get_next_line, so_long, minitalk, born2beroot…
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vavongg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vavongg&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Always learning · Always building 🔨</sub>
+</div>
