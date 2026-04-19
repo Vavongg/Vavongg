@@ -2,7 +2,7 @@
 
 # Hi, I'm Alexis 👋
 
-**Student @ 42 Paris** · Promo November 2024
+**Student at 42 Paris** · Promo November 2024
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
