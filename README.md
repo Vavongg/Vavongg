@@ -24,7 +24,6 @@
 - 🐧 Comfortable in **Linux** environments, working daily in the terminal
 - 🐳 Getting hands-on with **Docker** and infrastructure topics
 - 📡 Interested in **networking, security and DevOps** practices
-- 🛠️ Perfecting my **Neovim** setup one plugin at a time
 
 ---
 
