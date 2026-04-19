@@ -35,10 +35,8 @@
 |:--------|:------------|:-----:|
 | [**cub3D**](https://github.com/Vavongg/cub3D) | Raycasting 3D engine in C — inspired by Wolfenstein 3D | **105/100** |
 | [**Philosophers**](https://github.com/Vavongg/philosophers) | Concurrency problem — POSIX threads & mutexes | **100/100** |
-| **minishell** | A fully functional Unix shell written in C | 42 |
-| **push_swap** | Sorting algorithm using two stacks with minimal moves | 42 |
-| **NetPractice** | Network configuration & subnetting exercises | 42 |
-| **pipex** | Reproduction of Unix pipes & redirections in C | 42 |
+| [**minishell**](https://github.com/wassim971/minishell) | A fully functional Unix shell written in C | **101/100** |
+| [**push_swap**](https://github.com/Vavongg/push_swap) | Sorting algorithm using two stacks with minimal moves | **100/100** |
 
 > Many more completed — libft, ft_printf, get_next_line, so_long, minitalk, born2beroot…
 
